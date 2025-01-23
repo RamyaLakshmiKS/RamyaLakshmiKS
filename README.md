@@ -7,7 +7,7 @@
 - 📫 Drop me an email at ramyalakshmi.ks@gmail.com 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Besides coding and analyzing data, I love exploring architecture and blending it with tech in innovative ways!
-   Also, I’m out exploring the world! I love sharing my travel stories on my Instagram page—check it out https://www.instagram.com/wanderglow._?igsh=MXAxZGRyNGV0aTdrYg== for a glimpse into my adventures!
+   Also, I’m out exploring the world! I love sharing my travel stories on my Instagram page—check it out [here](https://www.instagram.com/wanderglow._?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) for a glimpse into my adventures!
 
 <!---
 RamyaLakshmiKS/RamyaLakshmiKS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
