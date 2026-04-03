@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Ramya Lakshmi KS</h1>
+<h1>Ramya Lakshmi Kuppa Sundararajan</h1>
 
 <h3>Data Scientist &nbsp;·&nbsp; AI Engineer &nbsp;·&nbsp; Agentic Systems Architect</h3>
 
