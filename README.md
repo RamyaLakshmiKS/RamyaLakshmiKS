@@ -137,5 +137,5 @@ I bring this discipline to AI engineering: architecting multi-agent systems, bui
 
 I'm Actively looking for Full Time **Data Science/AI Engineering/Software Engineering roles**, and **research collaborations** in cutting edge technologies.
 
-📬 [Connect on LinkedIn](https://www.linkedin.com/in/ramyalakshmiks)
+📬 [Connect on LinkedIn](https://www.linkedin.com/in/ramyalakshmiks)  
 📧 [Email me](mailto:ramyalakshmi.ks@gmail.com)
