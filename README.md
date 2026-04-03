@@ -8,6 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramyalakshmiks-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramyalakshmiks)
 &nbsp;
+[![Email](https://img.shields.io/badge/Email-ramyalakshmi.ks@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramyalakshmi.ks@gmail.com)
+&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=RamyaLakshmiKS&style=for-the-badge&color=6C3EF5)](https://github.com/RamyaLakshmiKS)
 
 </div>
@@ -133,6 +135,7 @@ I bring this discipline to AI engineering: architecting multi-agent systems, bui
 
 ## 📫 Let's Connect
 
-I'm open to **Data Science roles**, **Gen AI engineering opportunities**, and **research collaborations** in agentic AI.
+I'm Actively looking for Full Time **Data Science/AI Engineering/Software Engineering roles**, and **research collaborations** in cutting edge technologies.
 
 📬 [Connect on LinkedIn](https://www.linkedin.com/in/ramyalakshmiks)
+📧 [Email me](mailto:ramyalakshmi.ks@gmail.com)
