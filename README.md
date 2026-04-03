@@ -2,7 +2,7 @@
 
 <h1>Ramya Lakshmi KS</h1>
 
-<h3>Data Scientist &nbsp;·&nbsp; Gen AI Engineer &nbsp;·&nbsp; Agentic Systems Architect</h3>
+<h3>Data Scientist &nbsp;·&nbsp; AI Engineer &nbsp;·&nbsp; Agentic Systems Architect</h3>
 
 <p><em>Building intelligent systems that go beyond demos — into production.</em></p>
 
@@ -16,14 +16,15 @@
 
 ## 🧠 About Me
 
-I design and engineer **Generative AI systems** — from RAG pipelines and multi-agent orchestration to LLM-powered products that solve real operational problems.
+I'm a **Data Scientist specializing in AI systems**: applying rigorous statistical thinking, evaluation methodology, and experimentation to build Generative AI applications that deliver measurable business impact in production.
 
-My work sits at the intersection of **Data Science** and **AI Engineering**: I care as much about *how* a model performs in production as I do about the science behind it.
+My foundation is **quantitative rigor**: experimental design, metrics that matter, statistical significance, and systematic evaluation. 
+I bring this discipline to AI engineering: architecting multi-agent systems, building RAG pipelines, and optimizing LLMs so they perform predictably at scale.
 
-- 🎓 MS in Applied Data Science — **University of Florida**
-- 🤖 Specialized in **LLM applications**, **agentic architectures**, and **RAG systems**
-- ⚙️ End-to-end builder: prompt engineering → fine-tuning → deployment → observability
-- 🧩 Hands-on with **multi-agent frameworks**, **vector databases**, and **serverless AI infra**
+- 🎓 MS in Applied Data Science - **University of Florida** (specialization: AI/ML)
+- 📊 Data Science expertise: **experimental design**, **statistical evaluation**, **metrics & monitoring**, **model performance analysis**
+- 🤖 AI Systems builder: **LLM architecture**, **multi-agent orchestration**, **RAG systems**, **prompt engineering & optimization**
+- ⚙️ Full-stack practitioner: system design → hypothesis → evaluation → fine-tuning → deployment → production observability
 
 ---
 
