@@ -1,1 +1,128 @@
-I Enjoy making AI less "artificial" and more "intelligent"
+<div align="center">
+
+<h1>Ramya Lakshmi KS</h1>
+
+<h3>Data Scientist &nbsp;·&nbsp; Gen AI Engineer &nbsp;·&nbsp; Agentic Systems Architect</h3>
+
+<p><em>Building intelligent systems that go beyond demos — into production.</em></p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ramyalakshmiks-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramyalakshmiks)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=RamyaLakshmiKS&style=for-the-badge&color=6C3EF5)](https://github.com/RamyaLakshmiKS)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I design and engineer **Generative AI systems** — from RAG pipelines and multi-agent orchestration to LLM-powered products that solve real operational problems.
+
+My work sits at the intersection of **Data Science** and **AI Engineering**: I care as much about *how* a model performs in production as I do about the science behind it.
+
+- 🎓 MS in Applied Data Science — **University of Florida**
+- 🤖 Specialized in **LLM applications**, **agentic architectures**, and **RAG systems**
+- ⚙️ End-to-end builder: prompt engineering → fine-tuning → deployment → observability
+- 🧩 Hands-on with **multi-agent frameworks**, **vector databases**, and **serverless AI infra**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔮 Gen AI & LLM Frameworks
+![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+### 🗄️ Vector Databases & RAG
+![Cloudflare Vectorize](https://img.shields.io/badge/Cloudflare_Vectorize-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square&logo=meta&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00B4D8?style=flat-square)
+
+### 🤖 Machine Learning & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+### ⚙️ AI Engineering & Infra
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔷 [ApprovalFlow AI](https://github.com/RamyaLakshmiKS/cf_ai_approvalflow-ai) — Agentic Workflow Automation
+> End-to-end Gen AI system that automates enterprise approval workflows via natural language (text, voice, image). Integrates **Retrieval-Augmented Generation** against policy documents stored in Cloudflare Vectorize, routes requests intelligently through an agentic decision layer, and auto-approves routine items — reducing manual overhead at scale.
+
+**Key concepts:** `RAG` · `Agentic Routing` · `Multi-modal Input` · `Vector Search` · `Serverless AI`
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vectorize](https://img.shields.io/badge/Vectorize-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+---
+
+### 🔷 [Agentic Software Team](https://github.com/RamyaLakshmiKS/agentic_software_team) — Multi-Agent Orchestration
+> A fully orchestrated multi-agent system simulating an AI-driven software engineering team. Agents are assigned distinct roles — architect, developer, reviewer — and collaborate autonomously via the **Claude Agents SDK**, demonstrating task decomposition, inter-agent messaging, and goal-driven execution.
+
+**Key concepts:** `Multi-Agent Orchestration` · `Claude SDK` · `Task Delegation` · `Autonomous Agents`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Claude SDK](https://img.shields.io/badge/Claude_SDK-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+
+---
+
+### 🔷 [Bulls & Cows — AI Edition](https://github.com/RamyaLakshmiKS/Bulls-Cows) — LLM-Powered Game Logic
+> AI-powered implementation of the classic Bulls & Cows guessing game with intelligent move generation and natural language interaction.
+
+**Key concepts:** `LLM Integration` · `Game AI` · `Interactive UX`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RamyaLakshmiKS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamyaLakshmiKS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamyaLakshmiKS&theme=tokyonight&hide_border=true" height="170"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+▸ Agentic AI Systems        ████████████░░   Shipping production-grade multi-agent pipelines
+▸ RAG & Vector Search       ███████████░░░   Grounding LLMs on real-world enterprise data
+▸ LLM Evaluation & Evals    █████████░░░░░   Building robust eval + observability frameworks
+▸ AI Engineering (Infra)    ████████░░░░░░   Inference optimization, deployment, monitoring
+```
+
+---
+
+## 📫 Let's Connect
+
+I'm open to **Data Science roles**, **Gen AI engineering opportunities**, and **research collaborations** in agentic AI.
+
+📬 [Connect on LinkedIn](https://www.linkedin.com/in/ramyalakshmiks)
