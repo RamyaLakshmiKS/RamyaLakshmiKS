@@ -4,7 +4,7 @@
 
 <h3>Data Scientist &nbsp;·&nbsp; AI Engineer &nbsp;·&nbsp; Agentic Systems Architect</h3>
 
-<p><em>Building intelligent systems that go beyond demos — into production.</em></p>
+<p><em>Bridging Data Science and AI Systems: architecting reliable, production-ready intelligence through statistical rigor and systems engineering.</em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramyalakshmiks-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramyalakshmiks)
 &nbsp;
