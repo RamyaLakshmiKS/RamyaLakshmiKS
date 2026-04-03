@@ -120,20 +120,6 @@ I bring this discipline to AI engineering: architecting multi-agent systems, bui
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamyaLakshmiKS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamyaLakshmiKS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamyaLakshmiKS&theme=tokyonight&hide_border=true" height="170"/>
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```text
