@@ -6,7 +6,7 @@
 
 <h3>Full Stack AI Software Engineer x Data Scientist</h3>
 
-<p><em>Building end-to-end AI-powered products: from intelligent backends and agentic systems to production-ready UIs — grounded in data science rigor.</em></p>
+<p><em>Building end-to-end AI-powered products—from intelligent backends and agentic orchestration to production-ready UIs, complete with full observability and tracing</em></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramyalakshmiks-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramyalakshmiks)
 &nbsp;
