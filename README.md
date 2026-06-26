@@ -19,7 +19,7 @@
 </td>
 <td align="right" valign="middle" width="220">
 
-<img src="memoji.png" width="200" alt="Ramya's memoji" />
+<img width="200" alt="Ramya's memoji" src="https://github.com/user-attachments/assets/4c15b78a-18d2-45b8-ad41-e81f5bc33e00" />
 
 </td>
 </tr>
