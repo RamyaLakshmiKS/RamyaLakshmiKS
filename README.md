@@ -1,29 +1,14 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="middle">
+# Ramya Lakshmi Kuppa Sundararajan
+### Full Stack AI Software Engineer x Data Scientist
 
-<h1>Ramya Lakshmi Kuppa Sundararajan</h1>
+<img align="right" width="200" alt="Ramya's memoji" src="https://github.com/user-attachments/assets/4c15b78a-18d2-45b8-ad41-e81f5bc33e00" />
 
-<h3>Full Stack AI Software Engineer x Data Scientist</h3>
-
-<p><em>Building end-to-end AI-powered products—from intelligent backends and agentic orchestration to production-ready UIs, complete with full observability and tracing</em></p>
+*Building end-to-end AI-powered products from intelligent backends and agentic orchestration to production-ready UIs, complete with full observability and tracing*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramyalakshmiks-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramyalakshmiks)
-&nbsp;
 [![Email](https://img.shields.io/badge/Email-ramyalakshmi.ks@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramyalakshmi.ks@gmail.com)
-&nbsp;
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@ramyalakshmiiks)
-&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=RamyaLakshmiKS&style=for-the-badge&color=6C3EF5)](https://github.com/RamyaLakshmiKS)
-
-</td>
-<td align="right" valign="middle" width="220">
-
-<img width="200" alt="Ramya's memoji" src="https://github.com/user-attachments/assets/4c15b78a-18d2-45b8-ad41-e81f5bc33e00" />
-
-</td>
-</tr>
-</table>
 
 ---
 
