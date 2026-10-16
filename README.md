@@ -44,7 +44,7 @@ mindmap
       token cost and latency
 ```
 
-I basically like the whole loop of building Intelligent systems and test the limitations of AI.
+I enjoy the entire process of building intelligent systems, experimenting with different approaches, pushing the boundaries of what AI can do, and discovering where its limitations lie.
 
 ---
 
